@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h014d7e12g670ag48dcgae47g6eac7855029a" version="1">Mutant</content>
+	<content contentuid="he8715f5bga885g4fa3ga028gf0ed2847e8ef" version="1">Your body is being genetically modified by what has been named &lt;b&gt;X-Gene&lt;/b&gt;. You now possess abilities of unknown potential.</content>
+	<content contentuid="hdbb05e1dgf1cbg48f0gb8d4g93b13afd21df" version="1">Healing Factor</content>
+	<content contentuid="h19bbbec0geb45g47d7g989ag751cb0206430" version="1">Regenerate HP equal to your current &lt;b&gt;Mutant level&lt;/b&gt; at the start of your turn.</content>
+	<content contentuid="h24f97d0cg134ag4aa7g823cg548568d2f324" version="1">X Factor</content>
+	<content contentuid="h7c4d37d0gd388g4561ga457gd270347c6749" version="1">Read and translate brain waves; be them from &lt;LSTag Type="Status" Tooltip="DETECT_THOUGHTS"&gt;people&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="PETAL"&gt;animals&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Target_SpeakWithDead"&gt;fresh corpses&lt;/LSTag&gt;. Gain &lt;LSTag Tooltip="Expertise"&gt;expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Insight"&gt;insight&lt;/LSTag&gt;.</content>
+	<content contentuid="h57dfc941ge941g4d79g8594gd6f09caccd50" version="1">Silver Feet</content>
+	<content contentuid="hcb395829gc28fg4a1bg9edcg29738362d5a0" version="1">Movement speed increased by &lt;b&gt;6m&lt;/b&gt;. No &lt;LSTag Tooltip="OpportunityAttack"&gt;oppurtunity attacks&lt;/LSTag&gt; can touch you because of your heightened reflexes.</content>
+	<content contentuid="h30e1a712g6997g40e3ga121g48eb99c7aefc" version="1">Steel Skin</content>
+	<content contentuid="h50d88ff0g7213g4068g884cgfc92564ae5dd" version="1">Your skin has toughened to &lt;LSTag Tooltip="Resistant"&gt;Resist&lt;/LSTag&gt; Slashing, Piercing, and Bludgeoning damage. Your Armour Class is increased by 1.</content>
+	<content contentuid="h130c70bagecbdg432cgbad2g57014ef1940b">Shadow Crawler</content>
+	<content contentuid="hc44cb050g0751g428ega93fgdba8aff08e7c">You can &lt;LSTag Type="Spell" Tooltip="Mutant_Teleport"&gt;Teleport&lt;/LSTag&gt; to an unoccupied space you can see as a &lt;LSTag Tooltip="BonusAction"&gt;Bonus Action&lt;/LSTag&gt;.</content>
+	<content contentuid="h7d94fd70ga60fg4d04ga849g14236a82aad7">Mystiquel Arts</content>
+	<content contentuid="h3cacac92g1694g4255g982dg91f0f03341ab">You have perfected the art of &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Disguise&lt;/LSTag&gt; to gain &lt;LSTag Tooltip="Expertise"&gt;expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Deception"&gt;deception&lt;/LSTag&gt; and &lt;LSTag Tooltip="Persuasion"&gt;persuasion.&lt;/LSTag&gt;.</content>
+	<content contentuid="h01cf6c08gcf04g4186gbc38g351b056210c3">Merc With A Mouth</content>
+	<content contentuid="h3d3b29f3gb9a6g4d02ga137g0d091221a901">If you are &lt;LSTag Tooltip="Proficient"&gt;proficient&lt;/LSTag&gt; with a weaponm, use &lt;LSTag Tooltip="Dexterity"&gt;dexterity&lt;/LSTag&gt; for weapon attack rolls if it is higher than &lt;LSTag Tooltip="Strength"&gt;strength&lt;/LSTag&gt;.&lt;br&gt;Your attacks have a &lt;b&gt;10%&lt;/b&gt; chance to make an enemy &lt;LSTag Type="Status" Tooltip="Mutant_Laugh"&gt;laugh&lt;/LSTag&gt; for &lt;b&gt;1 turn&lt;/b&gt;.</content>
+	<content contentuid="h71ac5985gbed8g4d6fgbd97g2129c87a4e6f">Phoenix State: Fallen</content>
+	<content contentuid="ha390f472g6883g4ab8g802ag5c1a28f44d61">Gain the ability to &lt;LSTag Type="Passive" Tooltip="DevilsSight"&gt;see through darkness&lt;/LSTag&gt;.&lt;br&gt;When your HP falls below &lt;b&gt;50%&lt;/b&gt;, create a cloud of &lt;LSTag Type="Spell" Tooltip="Target_Darkness"&gt;Darkness&lt;/LSTag&gt; around you.</content>
+	<content contentuid="he3d5967bg2afeg4fa1gbdb3gfbae131285e7">Phoenix State: Flaming</content>
+	<content contentuid="hf166735dg2326g4dbcg8fd6gdcbf30566af9">Instead of taking fire damage, you heal HP equal to &lt;b&gt;twice&lt;/b&gt; of your Mutant level. Additionally, you gain &lt;LSTag Type="Status" Tooltip="FLAMING_SPHERE_AURA"&gt;Flaming Aura&lt;/LSTag&gt; for 5 turns.</content>
+	<content contentuid="ha3829f83g7de7g4a61gb829g23577c6df556">Phoenix State: Dark</content>
+	<content contentuid="hcc60da14g0006g40dcg8bfeg7537f4b4a18f">Upon killing an enemy, absorb their energy to recharge the lowest level &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; which isn't already full by &lt;b&gt;1&lt;/b&gt;.</content>
+	<content contentuid="h6cb58a79g537dg4600g8ebeg39ffc67bf743">Mutations</content>
+	<content contentuid="ha5b5959fg89b6g41eagafc2g952c594fb8ec">With the parasite on your side, you can choose your genetic mutations.</content>
+	<content contentuid="hd6d46275g0a6fg49bcgba95g1563b24a32f8">Phoenix State</content>
+	<content contentuid="he95983f6g1b5bg4002g81b7g6bf21d9fda72">A cosmic entity named &lt;b&gt;Phoenix Force&lt;/b&gt; has taken you as its host. You get to decide the state in which it resides in your body.</content>
+	<content contentuid="h79fc27fbge7a8g4af8g8bf3g20708bd4cba8">Laughing</content>
+	<content contentuid="hdf234710gce11g4e69g84f3ge886b19c58c0">On their turn, the affected entity will &lt;b&gt;do nothing&lt;/b&gt; but hysterically laugh at your antics. Their &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt; will be broken.&lt;br&gt;If they take damage while laughing, they will get &lt;LSTag Type="Status" Tooltip="RAGE_BOAR"&gt;angrier than a boar&lt;/LSTag&gt; for &lt;b&gt;2 turns&lt;/b&gt;.</content>
+	<content contentuid="h5fdd87d7gf71cg4051gac22gdef2ae79cc9c">Adamantium Skeleton</content>
+	<content contentuid="ha104d272ge303g413aga0aeg5652b1d60008">X-Gene</content>
+	<content contentuid="h653786bbg9fc0g45d4gaf72ga515e501c553">Your powers are innate, not spells to be verbally casted. You aren't affected by &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;silenced&lt;/LSTag&gt;.</content>
+	<content contentuid="h83b33428g1594g40b2g9666gd0d757c9d756">Overclocked</content>
+	<content contentuid="h59de3d4cg5d14g44a2g84dcg68616fe9995e">The Phoenix Force does not want your power growing beyond its will. Every time you level up, your HP will be reduced by &lt;b&gt;7%&lt;/b&gt;.</content>
+	<content contentuid="h3b1f40dbgf1f4g43a4ga776g5e1d1e2f5aec">The Final Test</content>
+	<content contentuid="hd6eadc3bg4941g4e3egb80dg3a43397a9a14">As a last ditch effort to break your will, the Phoenix has disabled all your mutations.</content>
+</contentList>
