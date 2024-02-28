@@ -76,3 +76,35 @@ Baldur's Gate 3 doesn't let you level up a class beyond Level 12 but if you choo
 1. **Phoenix State (Fallen)**: Gain the ability to see through darkness. When your HP falls below 50%, create a cloud of Darkness around you.
 2. **Phoenix State (Flaming)**: Instead of taking fire damage, you heal HP equal to twice of your Mutant level. Additionally, you gain Flaming Aura for 5 turns.
 3. **Phoenix State (Dark)**: Upon killing an enemy, absorb their energy to recharge the lowest level spell slot which isn't already full by 1.
+
+#### Level 13
+> You have chosen struggle over submitting to the Phoenix Force.
+- **Overclocked**: Pushing your body beyond its limits is taking a toll on your body. Your Max HP decreases by 7% everytime you level up.
+
+#### Level 14
+- Choose a Mutation
+- Choose a feat
+
+#### Level 15
+- Choose a Mutation
+- Choose a feat
+
+#### Level 16
+- Gain for 1 spell slot each for Level 1-3 spells
+- Learn 1 new spell from 1-3 level spells each
+
+#### Level 17
+- Gain for 1 spell slot each for Level 4-6 spells
+- Learn 1 new spell from 4-6 level spells each
+
+#### Level 18
+- Choose a feat
+
+#### Level 19
+- Choose a feat
+- **The Final Test**: All your Mutations have been disabled by the Phoenix to make you kneel.
+
+#### Level 20
+> You are now in complete control of the Phoenix Force.
+- Lose the **Overclocked** and **The Final Test** conditions. Your HP and Mutations return to normal.
+- Raise all your ability scores to 20.
