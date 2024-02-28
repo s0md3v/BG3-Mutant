@@ -7,10 +7,10 @@
 </h1>
 
 ### Introduction
-This mod adds a new class named "Mutant" to the [Baldur's Gate 3](https://baldursgate3.game/). The class is based on Marvel's X-Men comics and heavily borrows skills and abilities from the characters. It is intended for people who want to replay the game with a choose-what-you-can-do class.
+This mod adds a new class named "Mutant" to the [Baldur's Gate 3](https://baldursgate3.game/). The class is based on Marvel's X-Men comics and heavily borrows skills and abilities from the characters. It is intended for people who want to replay the game without being stuck with a "role" in the team.
 
 ### What is this class about?
-Your body is being genetically modified by what has been named **X-Gene**. As you level up, you decide your capabilities by choosing "Mutations" that fit your needs. The mutations go from making "TalkToAnimals" and "DetectThoughts" statuses permanent (Charles Xavier) to being able to teleport as bonus action (Nightcrawler). The cantrips and spells you are able to accquire as a **Mutant** are limited to what could be "Superpowers". You will not be casting spells where you pray to the gods to heal your allies, infuse a weapon with magic or conjure an elemental being.
+You are a Mutant. Your body is being genetically modified by what has been named **X-Gene**. As you level up, you decide your capabilities by choosing "Mutations" that fit your needs. The mutations go from making "TalkToAnimals" and "DetectThoughts" statuses permanent (Charles Xavier) to being able to teleport as bonus action (Nightcrawler). The cantrips and spells that are available to a **Mutant** are the ones that could be plausibe "Superpowers". You will not be casting spells where you pray to the gods to heal your allies, infuse a weapon with magic or conjure beings made of Lava.
 
 While the Mutations are sure to give you an edge, at Level 12 your body becomes the host of a powerful parasitical cosmic entity called The Phoenix Force. It lends you a very significant passive of your choice which may change the way you approach combat if used creatively.
 
