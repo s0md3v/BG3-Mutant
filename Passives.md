@@ -18,4 +18,4 @@
 At Level 12, you have to choose between 3 Phoenix states. 
 - **Phoenix State (Fallen)**: Gain the ability to see through darkness. Whenever your HP falls below 50%, create a cloud of darkness around you.
 - **Phoenix State (Flaming)**: Instead of taking fire damage, you heal HP equal to twice of your Mutant level. Additionally, you gain Flaming Aura for 5 turns.
-- **Phoenix State (Dark)**: Upon killing an enemy, absorb their energy to recharge the lowest level which isn't already full by 1.
+- **Phoenix State (Dark)**: Upon killing an enemy, absorb their energy to recharge the lowest level spell slot which isn't already full by 1.
