@@ -1,31 +1,34 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/s0md3v/Mutant-Class"><img src="./Mutant%20Class/Public/Game/GUI/Assets/ClassIcons/hotbar/Mutant.png" alt="Arjun"></a>
+  <a href="https://github.com/s0md3v/Mutant-Class"><img src="./Mutant%20Class/Public/Game/GUI/Assets/ClassIcons/hotbar/Mutant.png" alt="Mutant Icon"></a>
   <br>
   A class mod for Badlur's Gate 3
   <br>
 </h1>
 
 ### Introduction
-This mod adds a new class named "Mutant" to the [Baldur's Gate 3](https://baldursgate3.game/). The class is based on Marvel's X-Men comics and heavily borrows skills and abilities from the characters. It is intended for people who want to replay the game without being stuck with a "role" in the team.
+This mod adds a new class named "Mutant" to the [Baldur's Gate 3](https://baldursgate3.game/). It is is based on Marvel's X-Men comics and heavily borrows skills and abilities from the characters. It is intended for people who want to replay the game without being stuck with a "role" in the team, a Mutant can be built in many ways.
 
 ### What is this class about?
-You are a Mutant. Your body is being genetically modified by what has been named **X-Gene**. As you level up, you decide your capabilities by choosing "Mutations" that fit your needs. The mutations go from making "TalkToAnimals" and "DetectThoughts" statuses permanent (Charles Xavier) to being able to teleport as bonus action (Nightcrawler). The cantrips and spells that are available to a **Mutant** are the ones that could be plausibe "Superpowers". You will not be casting spells where you pray to the gods to heal your allies, infuse a weapon with magic or conjure beings made of Lava.
+You are a Mutant. Your body is being genetically modified by what has been named **X-Gene**. As you level up, you decide your capabilities by choosing "Mutations" that fit your vision for you character. The mutations go from reading minds without using a thoughts to being able to teleport as bonus action. You can see the list of unlockable passives [here](Passives.md).
 
-While the Mutations are sure to give you an edge, at Level 12 your body becomes the host of a powerful parasitical cosmic entity called The Phoenix Force. It lends you a very significant passive of your choice which may change the way you approach combat if used creatively.
+The cantrips and spells that are available to a **Mutant** are the ones that could be plausibe "Superpowers". You will not be casting spells where you pray to the gods to heal your allies, infuse a weapon with magic or summon demons. Spellcasting works as usual and a list of spells you can learn is [here](Spells.md).
 
-Baldur's Gate 3 doesn't let you level up a class beyond Level 12 but if you choose to do so using a mod, The Phoenix takes it as an act of defiance and gets pissed. For every level you go beyond 12, it will reduce your max HP by 7%. At Level 19, the Phoenix will disable all your Mutations as one last ditch effort to break you. It should be noticed that the -7% HP nerf adding up to this point makes your HP effectively half by you reaching Level 19. However, if you refuse to accept defeat and reach Level 20,  you gain control of the Phoenix Force. Jean Grey too did so in the comics and became omnipotent and omnipresent. As for you, all your ability stats will be increased to 20  and you will regain your HP and Mutations.
+While the Mutations are sure to give you an edge, at Level 12 your body becomes the host of a powerful malevolent cosmic entity called The Phoenix Force. It lends you a very significant passive of your choice which may change the way you approach combat if used creatively.
+
+Baldur's Gate 3 doesn't let you level up a class beyond Level 12 but if you choose to do so using a mod, The Phoenix takes it as an act of defiance and gets pissed. I will not spoil what happens after Level 12 but if you plan on doing that, I suggest you reach Level 20 and don't read the progression table below for the sake of spoilers.
 
 **> Primary Ability:** Dexterity\
 **> Spellcasting Ability:** Intelligence\
-**> Dialouge Options:** Bard
+**> Dialouge Options:** Bard\
+**> Proficiencies**: Simple Weapons, Light Armour
+**> Proficieny Bonus**: Dexterity and Constitution saving throws
+
 
 ### Progression
 #### Level 1
 - Choose 4 cantrips
 - **X Gene**: *Your powers are innate, not spells to be verbally casted. You aren't affected by silenced.*
-- **Proficiencies**: Simple Weapons, Light Armour
-- Gain proficiency bonus for Dexterity and Constitution saving throws
 
 #### Level 2
 - Gain 2 level 1 spell slots
@@ -56,6 +59,7 @@ Baldur's Gate 3 doesn't let you level up a class beyond Level 12 but if you choo
 - Choose 3 level 4 spells
 
 #### Level 8
+- **Cerebro**: Gain expertise in Insight.
 
 #### Level 9
 - Choose a Mutation
@@ -105,6 +109,10 @@ Baldur's Gate 3 doesn't let you level up a class beyond Level 12 but if you choo
 - **The Final Test**: All your Mutations have been disabled by the Phoenix to make you kneel.
 
 #### Level 20
-> You are now in complete control of the Phoenix Force.
+> You now have a choice to destroy, control or submit to the Phoenix:
+- Destroy Phoenix ():
+- Control Phoenix (Ascended):
+- Submit to Phoenix ():
+
 - Lose the **Overclocked** and **The Final Test** conditions. Your HP and Mutations return to normal.
 - Raise all your ability scores to 20.
