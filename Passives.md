@@ -1,12 +1,13 @@
 ### Gained on level up
 - **X Gene (Level 1)**: Your powers are innate, not spells to be verbally casted. You aren't affected by silence.
 - **Adamantium Skeleton (Level 5)**: Your constitution is increased by 1. Your max HP is increased by 18 points.
+- **Cerebro (Level 8)**: The logical part of your brain has developed. Gain expertise in Insight.
 
 > You gain 3 passives on Level 13, 19 and 20 but information about them is redacted as they spoil a major theme of this mod.
 
 ### Selectable passives
 - **Healing Factor**: Regenerate HP equal to your current Mutant level at the start of your turn.
-- **X Factor**: Read and translate brain waves; be them from people, animals; or fresh corpses. Gain expertise in insight.
+- **X Factor**: Read and translate brain waves; be them from people, animals; or fresh corpses.
 - **Silver Feet**: Movement speed increased by 6m. No oppurtunity attack can touch you because of your heightened reflexes.
 - **Steel Skin**: Your skin has toughened to resist Slashing, Piercing, and Bludgeoning damage. Your Armour Class is increased by 1.
 - **Shadow Crawler**: You can Teleport to an unoccupied space you can see as a Bonus Action.
