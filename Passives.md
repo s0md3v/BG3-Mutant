@@ -1,9 +1,8 @@
 ### Gained on level up
 - **X Gene (Level 1)**: Your powers are innate, not spells to be verbally casted. You aren't affected by silence.
 - **Adamantium Skeleton (Level 5)**: Your constitution is increased by 1. Your max HP is increased by 18 points.
-- **Overclock (Level 13)**: The Phoenix Force does not want your power growing beyond its will. Every time you level up, your HP will be reduced by 7%.
-- **The Final Test (Level 19)**: As a last ditch effort to break your will, the Phoenix has disabled all your mutations.
-- **Ascended (Level 20)**: Raises any ability scores that are below 20 to 20.
+
+> You gain 3 passives on Level 13, 19 and 20 but information about them is redacted as they spoil a major theme of this mod.
 
 ### Selectable passives
 - **Healing Factor**: Regenerate HP equal to your current Mutant level at the start of your turn.
