@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="PassiveList"> Choose Mutations
-                    <attribute id="Passives" type="LSString" value="Mutant_HealingFactor,Mutant_XFactor,Mutant_SilverFeet,Mutant_SteelSkin,Mutant_Nightcrawler,Mutant_Mystique,Mutant_MercWithAMouth"/> a list of passives separated with a comma
+                    <attribute id="Passives" type="LSString" value="Mutant_HealingFactor,Mutant_Cerebro,Mutant_Nightcrawler,Mutant_Metallurgy,Mutant_XFactor,Mutant_SilverFeet,Mutant_SteelSkin,Mutant_Mystique,Mutant_MercWithAMouth"/> a list of passives separated with a comma
                     <attribute id="UUID" type="guid" value="9c943874-e113-4251-85c3-f85949dff930"/> make a new UUID for each passive list. when selecting passive from list, refer to this UUID
                 </node>
 				<node id="PassiveList"> Choose Phoenix State

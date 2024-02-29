@@ -3,13 +3,15 @@ add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "WPN_Handaxe"
 add equipmentgroup
+add equipment entry "OBJ_GreaseBottle"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
-add equipment entry "OBJ_Potion_Healing"
-add equipmentgroup
-add equipment entry "OBJ_Potion_Healing"
-add equipmentgroup
-add equipment entry "ARM_ScaleMail_Body"
+add equipment entry "ARM_Leather_Body_Rogue"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup

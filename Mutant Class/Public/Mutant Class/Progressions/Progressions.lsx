@@ -83,7 +83,7 @@
                     <attribute id="Level" type="uint8" value="8"/>
                     <attribute id="Name" type="LSString" value="Mutant"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Skeleton"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Cerebro"/>
                     <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d"/>
                     <attribute id="UUID" type="guid" value="52281208-bb68-425e-90d8-92d4395f531e"/>
                 </node>
@@ -133,7 +133,7 @@
                     <attribute id="Name" type="LSString" value="Mutant"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="PassivesAdded" type="LSString" value="Mutant_Overclocked"/>
-                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(-8%)"/>
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(-9%)"/>
                     <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d"/>
                     <attribute id="UUID" type="guid" value="124c5f20-fa2f-4806-9b6c-f8d2cad6ab3d"/>
                 </node>
@@ -142,7 +142,7 @@
                     <attribute id="Level" type="uint8" value="14"/>
                     <attribute id="Name" type="LSString" value="Mutant"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(-8%)"/>
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(-9%)"/>
                     <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector)"/>
                     <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d"/>
                     <attribute id="UUID" type="guid" value="f817af58-9add-4a5f-897f-e8a4538027ba"/>
@@ -152,7 +152,6 @@
                     <attribute id="Level" type="uint8" value="15"/>
                     <attribute id="Name" type="LSString" value="Mutant"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector)"/>
                     <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d"/>
                     <attribute id="UUID" type="guid" value="56b55959-23cb-407b-bbd8-85662a8abc9e"/>
                 </node>
@@ -161,7 +160,7 @@
                     <attribute id="Level" type="uint8" value="16"/>
                     <attribute id="Name" type="LSString" value="Mutant"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,1,2);ActionResource(SpellSlot,1,3);IncreaseMaxHP(-8%)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,1,2);ActionResource(SpellSlot,1,3);IncreaseMaxHP(-9%)"/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(e09742e4-1f1a-4f2c-9028-005b848e677e,1,1,,,,AlwaysPrepared);SelectSpells(fb26a017-d222-435e-94b5-67760893145f,1,1,,,,AlwaysPrepared);SelectSpells(05497359-7ad6-4fc6-a9de-ab5457460aaf,1,1,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d"/>
                     <attribute id="UUID" type="guid" value="a7086040-a802-4b14-86e2-f4a0765d40c6"/>
@@ -171,7 +170,7 @@
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Mutant"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,1,5);ActionResource(SpellSlot,1,6);IncreaseMaxHP(-8%)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,1,5);ActionResource(SpellSlot,1,6);IncreaseMaxHP(-9%)"/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(89300ed2-e923-48af-8ccc-cc3ec1db65eb,1,1,,,,AlwaysPrepared);SelectSpells(24706e0b-b663-468c-bf86-7bc9a935202b,1,1,,,,AlwaysPrepared);SelectSpells(b030747c-82f9-4514-acd2-89b510839649,1,1,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d"/>
                     <attribute id="UUID" type="guid" value="483e39ae-b617-479c-8180-3a0ec055be06"/>
@@ -181,7 +180,7 @@
                     <attribute id="Level" type="uint8" value="18"/>
                     <attribute id="Name" type="LSString" value="Mutant"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(-8%)"/>
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(-9%)"/>
                     <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d"/>
                     <attribute id="UUID" type="guid" value="aed1a8d0-e00f-47eb-8d0b-2947cf484fc6"/>
                 </node>
@@ -190,8 +189,8 @@
                     <attribute id="Level" type="uint8" value="19"/>
                     <attribute id="Name" type="LSString" value="Mutant"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(-8%)"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="Mutant_HealingFactor,Mutant_XFactor,Mutant_SilverFeet,Mutant_SteelSkin,Mutant_Nightcrawler,Mutant_Mystique,Mutant_MercWithAMouth"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Final"/>
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(-9%)"/>"/>
                     <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d"/>
                     <attribute id="UUID" type="guid" value="7d228ace-127e-480a-829f-a37dbd44105c"/>
                 </node>
@@ -200,11 +199,54 @@
                     <attribute id="Level" type="uint8" value="20"/>
                     <attribute id="Name" type="LSString" value="Mutant"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Boosts" type="LSString" value="Ability(Strength,12,20);Ability(Constitution,12,20);Ability(Wisdom,12,20);Ability(Intelligence,12,20);Ability(Charisma,12,20);IncreaseMaxHP(40%)"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Ascended;Mutant_HealingFactor,Mutant_XFactor,Mutant_SilverFeet,Mutant_SteelSkin,Mutant_Nightcrawler,Mutant_Mystique,Mutant_MercWithAMouth"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="Mutant_Overclocked"/>
                     <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d"/>
                     <attribute id="UUID" type="guid" value="5a281aad-26cf-4cc5-923b-3d2164683df7"/>
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
+                                    <attribute id="Object" type="guid" value="b5309009-ef07-4693-9df2-d69e5abc06d9"/>
+                                </node>
+                                <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
+                                    <attribute id="Object" type="guid" value="d1ea3aa9-ad28-4533-ab38-3accc3b62d11"/>
+                                </node>
+                                <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
+                                    <attribute id="Object" type="guid" value="ccea907c-92ef-4fa6-81f3-60873304e30c"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Progression"> Absolute Mutant
+                    <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="Absolute Mutant"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,9,MutationsSelector)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Absolute"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Mutant_Overclocked;Mutant_Final"/>
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,12,20);Ability(Constitution,12,20);Ability(Dexterity,12,20);Ability(Intelligence,12,20);Ability(Charisma,12,20);ActionResource(SpellSlot,5,1);ActionResource(SpellSlot,4,2);ActionResource(SpellSlot,4,3);ActionResource(SpellSlot,3,4);ActionResource(SpellSlot,3,5);ActionResource(SpellSlot,3,6)"/>
+                    <attribute id="TableUUID" type="guid" value="490c1adc-90bc-468d-b175-be5b27503882"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
+                    <attribute id="UUID" type="guid" value="b8babe05-af49-410b-abf4-0f0a04b13f62"/> Give it a Unique UUID
+                </node>
+                <node id="Progression"> Ascended Mutant
+                    <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="Ascended Mutant"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Ascended"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Mutant_Overclocked;Mutant_Final"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,5,1);ActionResource(SpellSlot,4,2);ActionResource(SpellSlot,4,3);ActionResource(SpellSlot,3,4);ActionResource(SpellSlot,3,5);ActionResource(SpellSlot,3,6);IncreaseMaxHP(50%)"/>
+                    <attribute id="TableUUID" type="guid" value="d0f7927c-7b20-4ef3-a771-7bfe88613c6c"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
+                    <attribute id="UUID" type="guid" value="b3969706-aeec-4305-bfe5-c15c993d0be0"/> Give it a Unique UUID
+                </node>
+                <node id="Progression"> Berserk Mutant
+                    <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="Berserk Mutant"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Berserk"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Mutant_Overclocked;Mutant_Final"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,5,1);ActionResource(SpellSlot,4,2);ActionResource(SpellSlot,4,3);ActionResource(SpellSlot,3,4);ActionResource(SpellSlot,3,5);ActionResource(SpellSlot,3,6);IncreaseMaxHP(50%)"/>
+                    <attribute id="TableUUID" type="guid" value="c61de27d-9a4c-42a2-9218-89f27a591d80"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
+                    <attribute id="UUID" type="guid" value="b62cd59f-644f-4d7f-9f68-a877762ffca8"/> Give it a Unique UUID
                 </node>
             </children>
         </node>
