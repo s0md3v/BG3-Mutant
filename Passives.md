@@ -12,7 +12,7 @@
 - **Steel Skin**: Your skin has toughened to resist Slashing, Piercing, and Bludgeoning damage.
 - **Shadow Crawler**: You can Teleport to an unoccupied space you can see as a Bonus Action.
 - **Mystiquel Arts**: You have perfected the art of Disguise to gain expertise in deception and persuasion.
-- **Merc With A Mouth**: If you are with a weapon, use dexterity for weapon attack rolls if it is higher than strength. Your attacks have a 10% chance to make an enemy laugh for 1 turn.
+- **Merc With A Mouth**: If you are proficient with a weapon, use dexterity for weapon attack rolls if it is higher than strength. Your attacks have a 10% chance to make an enemy laugh for 1 turn.
 
 ### Phoenix State
 At Level 12, you have to choose between 3 Phoenix states. 
