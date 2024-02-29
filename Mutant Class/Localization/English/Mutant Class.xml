@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="h014d7e12g670ag48dcgae47g6eac7855029a" version="1">Mutant</content>
 	<content contentuid="he8715f5bga885g4fa3ga028gf0ed2847e8ef" version="1">Your body is being genetically modified by what has been named &lt;b&gt;X-Gene&lt;/b&gt;. You now possess abilities of unknown potential.</content>
@@ -11,7 +11,19 @@
 	<content contentuid="hdbb05e1dgf1cbg48f0gb8d4g93b13afd21df" version="1">Healing Factor</content>
 	<content contentuid="h19bbbec0geb45g47d7g989ag751cb0206430" version="1">Regenerate HP equal to your current &lt;b&gt;Mutant level&lt;/b&gt; at the start of your turn.</content>
 	<content contentuid="h28acdb47gadd9g40ceg8321g461c1358369e" version="1">Metallurgy</content>
-	<content contentuid="h371ac618g26f8g4905gb900gd7a47ff28b7c" version="1">You have a connection with metal. Gain proficiency in all armour and weapon types.</content>
+	<content contentuid="h371ac618g26f8g4905gb900gd7a47ff28b7c" version="1">You have developed a connection with metal. Gain proficiency in all armour and weapon types.</content>
+	<content contentuid="hb1489f5cge93bg4973g83b2g6ac01dbd9ce3" version="1">Ice Spice</content>
+	<content contentuid="h257ec460gc353g4378g9626g9528c3db6a34" version="1">You walk on ice as if it is an ordinary surface watching others struggle.</content>
+	<content contentuid="he9094b84gfcdeg4d74g9991g68596e64a83a" version="1">Cable's Fable</content>
+	<content contentuid="h9e150e98g0884g4816gaf39g2a11add07dde" version="1">The future consequences of your action flash before your eyes. Your spells do not hurt your allies if they require a saving throw.</content>
+	<content contentuid="hcade5f56g7be6g484bg9e00gfe401a9e7341" version="1">Storm Chaser</content>
+	<content contentuid="h4fb25427g3856g4dd2g9743g55c5e264aeda" version="1">Creating a cloud of &lt;LSTag Type="Spell" Tooltip="Shout_HealingMist_Myrmidon_Water"&gt;Healing Mist&lt;/LSTag&gt; as a class action in combat. Gain immunity to Electric damage.</content>
+	<content contentuid="h122f3e75g8597g455eg84c3g309d12a652e4" version="1">Sunspotted</content>
+	<content contentuid="h783c121eg7622g4fb9ga2acg92b6bfd7ee58" version="1">When you are in real sunlight, you deal &lt;b&gt;+2&lt;/b&gt; damage using solar energy.</content>
+	<content contentuid="ha73929b3g485ag4434g9e00g2ca454f4a5ab" version="1">Cerebro</content>
+	<content contentuid="hb4b081bcg6aabg4ff4gbd1dg65573c685fb1" version="1">Your brain is evolving. You have gained &lt;LSTag Tooltip="Expertise"&gt;expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Investigation"&gt;investigation&lt;/LSTag&gt; and &lt;LSTag Tooltip="Perception"&gt;perception&lt;/LSTag&gt;.</content>
+	<content contentuid="h61b25154g5d82g4202ga4f2g5894125e1763" version="1">Cyloptic Rays</content>
+	<content contentuid="h61b25154g5d82g4202ga4f2g5894125e1763" version="1">Using your stronger optic nerves, increase the number of &lt;LSTag Type="Spell" Tooltip="Projectile_ScorchingRay"&gt;Scorching Rays&lt;/LSTag&gt; by 2.</content>
 	<content contentuid="h24f97d0cg134ag4aa7g823cg548568d2f324" version="1">X Factor</content>
 	<content contentuid="h7c4d37d0gd388g4561ga457gd270347c6749" version="1">Read and translate brain waves; be them from &lt;LSTag Type="Status" Tooltip="DETECT_THOUGHTS"&gt;people&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="PETAL"&gt;animals&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Target_SpeakWithDead"&gt;fresh corpses&lt;/LSTag&gt;. Gain &lt;LSTag Tooltip="Expertise"&gt;expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Insight"&gt;insight&lt;/LSTag&gt;.</content>
 	<content contentuid="h57dfc941ge941g4d79g8594gd6f09caccd50" version="1">Silver Feet</content>
