@@ -6,13 +6,13 @@
             <children>
                 <node id="AbilityDistributionPreset">
                     <attribute id="ClassUUID" type="guid" value="516df80d-e962-48c7-ab31-e9b9342a3553"/>
-                    <attribute id="Charisma" type="int32" value="15"/>
-					<attribute id="Constitution" type="int32" value="8"/>
-                    <attribute id="Dexterity" type="int32" value="15"/>
-                    <attribute id="Intelligence" type="int32" value="15"/>
                     <attribute id="Strength" type="int32" value="8"/>
+                    <attribute id="Dexterity" type="int32" value="15"/>
+                    <attribute id="Constitution" type="int32" value="13"/>
+                    <attribute id="Intelligence" type="int32" value="15"/>
                     <attribute id="Wisdom" type="int32" value="8"/>
-					<attribute id="UUID" type="guid" value="ae1c8120-691e-4b4b-b5d1-e4e3077bacb4"/>
+                    <attribute id="Charisma" type="int32" value="12"/>
+                    <attribute id="UUID" type="guid" value="ae1c8120-691e-4b4b-b5d1-e4e3077bacb4"/>
                 </node>
             </children>
         </node>
