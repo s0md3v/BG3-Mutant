@@ -21,7 +21,7 @@ Baldur's Gate 3 doesn't let you level up a class beyond Level 12 but if you choo
 **> Primary Ability:** Dexterity\
 **> Spellcasting Ability:** Intelligence\
 **> Dialouge Options:** Bard\
-**> Proficiencies**: Simple Weapons, Light Armour
+**> Proficiencies**: Simple Weapons, Light Armour\
 **> Proficieny Bonus**: Dexterity and Constitution saving throws
 
 
