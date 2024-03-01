@@ -10,9 +10,9 @@
 This mod adds a new class named "Mutant" to the [Baldur's Gate 3](https://baldursgate3.game/). It is is based on Marvel's X-Men comics and heavily borrows skills and abilities from the characters. It is intended for people who want to replay the game without being stuck with a "role" in the team, a Mutant can be built in many ways.
 
 ### What is this class about?
-You are a Mutant. Your body is being genetically modified by what has been named **X-Gene**. As you level up, you choose several "Mutations" that fit your vision for your character. There are currently 15 mutationsnd they go from reading minds without using a spell to being able to teleport as a bonus action. You can see the list of unlockable passives [here](Passives.md).
+You are a Mutant. Your body is being genetically modified by what has been named **X-Gene**. As you level up, you choose several "Mutations" that fit your vision for your character. There are currently 15 mutations and they go from dealing +2 damage in sunlight to being able to teleport as a bonus action. You can see the list of unlockable passives [here](Passives.md).
 
-The cantrips and spells that are available to a **Mutant** are the ones that could be plausibe "Superpowers". You will not be casting spells where you pray to the gods to heal your allies, infuse a weapon with magic or summon demons. Spellcasting works as usual and a list of spells you can learn is [here](Spells.md).
+The cantrips and spells that are available to a **Mutant** are the ones that could be plausibe "Superpowers". You will not be casting spells where you pray to the gods to heal your allies, infuse a weapon with magic or summon demons. Spellcasting works as usual and a list of spells you can learn is here.
 
 While the Mutations are sure to give you an edge, at Level 12 your body becomes the host of a powerful malevolent cosmic entity called The Phoenix Force. It lends you a very significant passive of your choice which may change the way you approach combat if used creatively.
 
