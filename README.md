@@ -10,13 +10,13 @@
 This mod adds a new class named "Mutant" to the [Baldur's Gate 3](https://baldursgate3.game/). It is is based on Marvel's X-Men comics and heavily borrows skills and abilities from the characters. It is intended for people who want to replay the game without being stuck with a "role" in the team, a Mutant can be built in many ways.
 
 ### What is this class about?
-You are a Mutant. Your body is being genetically modified by what has been named **X-Gene**. As you level up, you decide your capabilities by choosing "Mutations" that fit your vision for you character. The mutations go from reading minds without using a thoughts to being able to teleport as bonus action. You can see the list of unlockable passives [here](Passives.md).
+You are a Mutant. Your body is being genetically modified by what has been named **X-Gene**. As you level up, you choose several "Mutations" that fit your vision for your character. There are currently 15 mutationsnd they go from reading minds without using a spell to being able to teleport as a bonus action. You can see the list of unlockable passives [here](Passives.md).
 
 The cantrips and spells that are available to a **Mutant** are the ones that could be plausibe "Superpowers". You will not be casting spells where you pray to the gods to heal your allies, infuse a weapon with magic or summon demons. Spellcasting works as usual and a list of spells you can learn is [here](Spells.md).
 
 While the Mutations are sure to give you an edge, at Level 12 your body becomes the host of a powerful malevolent cosmic entity called The Phoenix Force. It lends you a very significant passive of your choice which may change the way you approach combat if used creatively.
 
-Baldur's Gate 3 doesn't let you level up a class beyond Level 12 but if you choose to do so using a mod, The Phoenix takes it as an act of defiance and gets pissed. I will not spoil what happens after Level 12 but if you plan on doing that, I suggest you reach Level 20 and don't read the progression table below for the sake of spoilers.
+Baldur's Gate 3 doesn't let you level up a class beyond Level 12 but if you choose to do so using a mod, The Phoenix takes it as an act of defiance and gets pissed. I will not spoil what happens after but what I can tell you is that you will be choosing a subclass at Level 20.
 
 **> Primary Ability:** Dexterity\
 **> Spellcasting Ability:** Intelligence\
@@ -84,35 +84,39 @@ Baldur's Gate 3 doesn't let you level up a class beyond Level 12 but if you choo
 #### Level 13
 > You have chosen struggle over submitting to the Phoenix Force.
 - **Overclocked**: Pushing your body beyond its limits is taking a toll on your body. Your Max HP decreases by 7% everytime you level up.
+- Max HP reduced by 7%
 
 #### Level 14
 - Choose a Mutation
 - Choose a feat
+- Max HP reduced by 7%
 
 #### Level 15
 - Choose a Mutation
 - Choose a feat
+- Max HP reduced by 7%
 
 #### Level 16
 - Gain for 1 spell slot each for Level 1-3 spells
 - Learn 1 new spell from 1-3 level spells each
+- Max HP reduced by 7%
 
 #### Level 17
 - Gain for 1 spell slot each for Level 4-6 spells
 - Learn 1 new spell from 4-6 level spells each
+- Max HP reduced by 7%
 
 #### Level 18
 - Choose a feat
+- Max HP reduced by 7%
 
 #### Level 19
 - Choose a feat
-- **The Final Test**: All your Mutations have been disabled by the Phoenix to make you kneel.
+- Max HP reduced by 7%
+- **The Final Test**: All your spellcasting abilities have been suppressed by the Phoenix to break you down.
 
-#### Level 20
+#### Level 20 (Choose a subclass)
 > You now have a choice to destroy, control or submit to the Phoenix:
-- Destroy Phoenix ():
-- Control Phoenix (Ascended):
-- Submit to Phoenix ():
-
-- Lose the **Overclocked** and **The Final Test** conditions. Your HP and Mutations return to normal.
-- Raise all your ability scores to 20.
+- **Destroy Phoenix** (Absolute Mutant): >You have chosen to destroy the Phoenix Force. You make up for your lost vitality with truly unlocked Mutant potential. (Raises all your stats to 20 and lets you select 3 additional passives.)
+- **Control Phoenix** (Ascended Mutant): You have to chosen to control the Phoenix Force and remove any evil it had. You vitality has been restored and you have complete control over your Phoenix States. (Unlocks all Phoenix states including a new one)
+- **Submit to Phoenix** (Berserk Mutant): You have decided to submit to the Phoenix Force realising it can help you fight the greater evil. Phoenix has not only been restored but increased your vitality and will fully restore you on every short rest. (Increases HP by 1)
