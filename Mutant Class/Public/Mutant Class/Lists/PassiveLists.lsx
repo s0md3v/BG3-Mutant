@@ -5,12 +5,12 @@
         <node id="root">
             <children>
                 <node id="PassiveList"> Choose Mutations
-                    <attribute id="Passives" type="LSString" value="Mutant_HealingFactor,Mutant_Sunspotted,Mutant_Storm;Mutant_MercWithAMouth;Mutant_Cerebro,Mutant_Nightcrawler,Mutant_Cycloptic,Mutant_Metallurgy,Mutant_XFactor,Mutant_Ice,Mutant_Cable;Mutant_SilverFeet,Mutant_SteelSkin,Mutant_Mystique"/> a list of passives separated with a comma
-                    <attribute id="UUID" type="guid" value="9c943874-e113-4251-85c3-f85949dff930"/> make a new UUID for each passive list. when selecting passive from list, refer to this UUID
+                    <attribute id="Passives" type="LSString" value="Mutant_HealingFactor,Mutant_Sunspotted,Mutant_Storm,Mutant_MercWithAMouth,Mutant_Nightcrawler,Mutant_Cycloptic,Mutant_Metallurgy,Mutant_XFactor,Mutant_Ice,Mutant_Cable;Mutant_SilverFeet,Mutant_SteelSkin,Mutant_Mystique"/>
+                    <attribute id="UUID" type="guid" value="9c943874-e113-4251-85c3-f85949dff930"/>
                 </node>
 				<node id="PassiveList"> Choose Phoenix State
-                    <attribute id="Passives" type="LSString" value="Mutant_FallenPhoenix,Mutant_FlamingPhoenix,Mutant_DarkPhoenix"/> You can make more than 1 list. the same passive can be in different lists
-                    <attribute id="UUID" type="guid" value="460cfdd6-296e-4efd-9eb3-54f35ead44d2"/> make a new UUID for each passive list
+                    <attribute id="Passives" type="LSString" value="Mutant_FallenPhoenix,Mutant_FlamingPhoenix,Mutant_DarkPhoenix"/>
+                    <attribute id="UUID" type="guid" value="460cfdd6-296e-4efd-9eb3-54f35ead44d2"/>
                 </node>
             </children>
         </node>

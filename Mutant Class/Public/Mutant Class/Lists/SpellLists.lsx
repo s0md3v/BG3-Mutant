@@ -6,7 +6,7 @@
             <children>
                 <node id="SpellList"> Cantrips
                     <attribute id="Comment" type="LSString" value="Mutant Cantrips (Intelligence)" />
-                    <attribute id="Spells" type="LSString" value="Target_Firebolt;Projectile_RayOfFrost;Target_ChillTouch;Target_MageHand;Projectile_PoisonSpray;Target_ShockingGrasp" />
+                    <attribute id="Spells" type="LSString" value="Target_Firebolt;Projectile_RayOfFrost;Target_ChillTouch;Target_MageHand;Projectile_PoisonSpray;Target_ShockingGrasp;Projectile_AcidSplash;Target_ViciousMockery" />
                     <attribute id="UUID" type="guid" value="55ed6ab7-cfab-4cc1-819e-87c446d1e814" />
                 </node>
 				<node id="SpellList"> Level 1

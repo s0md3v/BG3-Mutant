@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="h014d7e12g670ag48dcgae47g6eac7855029a" version="1">Mutant</content>
 	<content contentuid="he8715f5bga885g4fa3ga028gf0ed2847e8ef" version="1">Your body is being genetically modified by what has been named &lt;b&gt;X-Gene&lt;/b&gt;. You now possess abilities of unknown potential.</content>
@@ -23,7 +23,7 @@
 	<content contentuid="ha73929b3g485ag4434g9e00g2ca454f4a5ab" version="1">Cerebro</content>
 	<content contentuid="hb4b081bcg6aabg4ff4gbd1dg65573c685fb1" version="1">Your brain is evolving. You have gained &lt;LSTag Tooltip="Expertise"&gt;expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Investigation"&gt;investigation&lt;/LSTag&gt; and &lt;LSTag Tooltip="Perception"&gt;perception&lt;/LSTag&gt;.</content>
 	<content contentuid="h61b25154g5d82g4202ga4f2g5894125e1763" version="1">Cyloptic Rays</content>
-	<content contentuid="h61b25154g5d82g4202ga4f2g5894125e1763" version="1">Using your stronger optic nerves, increase the number of &lt;LSTag Type="Spell" Tooltip="Projectile_ScorchingRay"&gt;Scorching Rays&lt;/LSTag&gt; by 2.</content>
+	<content contentuid="h759c1b81gf6b0g4068ga56fgff8db6515903" version="1">Using your stronger optic nerves, increase the number of &lt;LSTag Type="Spell" Tooltip="Projectile_ScorchingRay"&gt;Scorching Rays&lt;/LSTag&gt; by 2.</content>
 	<content contentuid="h24f97d0cg134ag4aa7g823cg548568d2f324" version="1">X Factor</content>
 	<content contentuid="h7c4d37d0gd388g4561ga457gd270347c6749" version="1">Read and translate brain waves; be them from &lt;LSTag Type="Status" Tooltip="DETECT_THOUGHTS"&gt;people&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="PETAL"&gt;animals&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Target_SpeakWithDead"&gt;fresh corpses&lt;/LSTag&gt;. Gain &lt;LSTag Tooltip="Expertise"&gt;expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Insight"&gt;insight&lt;/LSTag&gt;.</content>
 	<content contentuid="h57dfc941ge941g4d79g8594gd6f09caccd50" version="1">Silver Feet</content>
