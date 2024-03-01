@@ -12,6 +12,10 @@
                     <attribute id="Passives" type="LSString" value="Mutant_FallenPhoenix,Mutant_FlamingPhoenix,Mutant_DarkPhoenix"/>
                     <attribute id="UUID" type="guid" value="460cfdd6-296e-4efd-9eb3-54f35ead44d2"/>
                 </node>
+                <node id="PassiveList"> Choose Phoenix State 2
+                    <attribute id="Passives" type="LSString" value="Mutant_FallenPhoenix,Mutant_FlamingPhoenix,Mutant_DarkPhoenix,Mutant_AscendedPhoenix"/>
+                    <attribute id="UUID" type="guid" value="13f289c9-dd20-4ea6-a7ab-188f7e12a10f"/>
+                </node>
             </children>
         </node>
     </region>

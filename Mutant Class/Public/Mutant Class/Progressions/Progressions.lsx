@@ -221,7 +221,7 @@
                     <attribute id="Level" type="uint8" value="20"/>
                     <attribute id="Name" type="LSString" value="Absolute Mutant"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,9,MutationsSelector)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,3,MutationsSelector)"/>
                     <attribute id="PassivesAdded" type="LSString" value="Mutant_Absolute"/>
                     <attribute id="PassivesRemoved" type="LSString" value="Mutant_Overclocked;Mutant_Final"/>
                     <attribute id="Boosts" type="LSString" value="Ability(Strength,12,20);Ability(Constitution,12,20);Ability(Dexterity,12,20);Ability(Intelligence,12,20);Ability(Charisma,12,20);ActionResource(SpellSlot,5,1);ActionResource(SpellSlot,4,2);ActionResource(SpellSlot,4,3);ActionResource(SpellSlot,3,4);ActionResource(SpellSlot,3,5);ActionResource(SpellSlot,3,6)"/>
@@ -235,6 +235,7 @@
                     <attribute id="PassivesAdded" type="LSString" value="Mutant_Ascended"/>
                     <attribute id="PassivesRemoved" type="LSString" value="Mutant_Overclocked;Mutant_Final"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,5,1);ActionResource(SpellSlot,4,2);ActionResource(SpellSlot,4,3);ActionResource(SpellSlot,3,4);ActionResource(SpellSlot,3,5);ActionResource(SpellSlot,3,6);IncreaseMaxHP(50%)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(13f289c9-dd20-4ea6-a7ab-188f7e12a10f,3,PhoenixSelectorAsc)"/>
                     <attribute id="TableUUID" type="guid" value="d0f7927c-7b20-4ef3-a771-7bfe88613c6c"/>
                     <attribute id="UUID" type="guid" value="b3969706-aeec-4305-bfe5-c15c993d0be0"/>
                 </node>

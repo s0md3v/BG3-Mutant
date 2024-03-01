@@ -42,6 +42,8 @@
 	<content contentuid="hf166735dg2326g4dbcg8fd6gdcbf30566af9">Instead of taking fire damage, you heal HP equal to &lt;b&gt;twice&lt;/b&gt; of your Mutant level. Additionally, you gain &lt;LSTag Type="Status" Tooltip="FLAMING_SPHERE_AURA"&gt;Flaming Aura&lt;/LSTag&gt; for 5 turns.</content>
 	<content contentuid="ha3829f83g7de7g4a61gb829g23577c6df556">Phoenix State: Dark</content>
 	<content contentuid="hcc60da14g0006g40dcg8bfeg7537f4b4a18f">Upon killing an enemy, absorb their energy to recharge the lowest level &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; which isn't already full by &lt;b&gt;1&lt;/b&gt;.</content>
+	<content contentuid="hb73f69a8gd049g449dg889fgd2e0a5238330">Phoenix State: Ascended</content>
+	<content contentuid="h4c06a5fdg9aabg4513g80ccg724e8794ef62">Your atacks ignore resistance and immunity to Fire damage.</content>
 	<content contentuid="h6cb58a79g537dg4600g8ebeg39ffc67bf743">Mutations</content>
 	<content contentuid="ha5b5959fg89b6g41eagafc2g952c594fb8ec">With the parasite on your side, you can choose your genetic mutations.</content>
 	<content contentuid="hd6d46275g0a6fg49bcgba95g1563b24a32f8">Phoenix State</content>
