@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-    <version major="4" minor="0" revision="9" build="307"/>
-    <region id="ProgressionDescriptions">
-        <node id="root">
-            <children>
-                <node id="ProgressionDescription"> Mutations Selector
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription"> Mutations Selector
                     <attribute id="Description" type="TranslatedString" handle="ha5b5959fg89b6g41eagafc2g952c594fb8ec" version="1" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h6cb58a79g537dg4600g8ebeg39ffc67bf743" version="1" />
                     <attribute id="SelectorId" type="FixedString" value="MutationsSelector" />
                     <attribute id="UUID" type="guid" value="1497ed93-b68b-4c79-b895-c726a693c835" />
                 </node>
-                <node id="ProgressionDescription"> Phoenix State Selector
+        <node id="ProgressionDescription"> Phoenix State Selector
                     <attribute id="Description" type="TranslatedString" handle="he95983f6g1b5bg4002g81b7g6bf21d9fda72" version="1" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hd6d46275g0a6fg49bcgba95g1563b24a32f8" version="1" />
                     <attribute id="SelectorId" type="FixedString" value="PhoenixSelector" />
                     <attribute id="UUID" type="guid" value="4749089b-1b36-459f-bb10-11f4b53aa417" />
                 </node>
-                <node id="ProgressionDescription"> Phoenix State Selector 2
+        <node id="ProgressionDescription"> Phoenix State Selector 2
                     <attribute id="Description" type="TranslatedString" handle="he95983f6g1b5bg4002g81b7g6bf21d9fda72" version="1" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hd6d46275g0a6fg49bcgba95g1563b24a32f8" version="1" />
                     <attribute id="SelectorId" type="FixedString" value="PhoenixSelectorAsc" />
                     <attribute id="UUID" type="guid" value="13f289c9-dd20-4ea6-a7ab-188f7e12a10f" />
                 </node>
-            </children>
-        </node>
-    </region>
+      </children>
+    </node>
+  </region>
 </save>
