@@ -15,6 +15,17 @@
                     <attribute id="UUID" type="guid" value="2f911f2a-2da4-4735-8ff7-e477b3a9efd0" />
                 </node>
         <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Constitution);Proficiency(SimpleWeapons);Proficiency(LightArmor)" />
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Gene" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="IsMulticlass" type="bool" value="true"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector);" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="6638ce60-025e-4dc7-a6dd-02fea5172177" />
+                </node>
+        <node id="Progression">
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1)" />
                     <attribute id="AllowImprovement" type="bool" value="false" />
                     <attribute id="Level" type="uint8" value="2" />
@@ -113,8 +124,8 @@
                     <attribute id="Name" type="LSString" value="Mutant" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel6" />
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6)" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(b030747c-82f9-4514-acd2-89b510839649,1,0,,,,AlwaysPrepared)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,6)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(b030747c-82f9-4514-acd2-89b510839649,2,0,,,,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
                     <attribute id="UUID" type="guid" value="c6117f20-005e-4aaf-9fde-e6313997c47e" />
                 </node>
