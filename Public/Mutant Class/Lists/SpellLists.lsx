@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList"> Cantrips
+                    <attribute id="Comment" type="LSString" value="Mutant Cantrips (Intelligence)" />
+                    <attribute id="Spells" type="LSString" value="Projectile_RayOfFrost;Target_ChillTouch;Target_MageHand;Projectile_PoisonSpray;Target_ShockingGrasp;Projectile_AcidSplash;Target_ViciousMockery;Target_DancingLights;Projectile_FireBolt;Target_Friends;Target_Light;Target_MinorIllusion;Target_TrueStrike;Target_MAG_ThornWhip_Sorrow" />
+                    <attribute id="UUID" type="guid" value="55ed6ab7-cfab-4cc1-819e-87c446d1e814" />
+                </node>
+        <node id="SpellList"> Level 1
+                    <attribute id="Comment" type="LSString" value="Mutant Spells" />
+                    <attribute id="Spells" type="LSString" value="Projectile_ChromaticOrb;Target_Command_Container;Target_CreateDestroyWater;Shout_ExpeditiousRetreat;Target_FogCloud;Target_Grease;Projectile_HailOfThorns;Projectile_IceKnife;Target_InflictWounds;Projectile_MagicMissile;Projectile_RayOfSickness;Projectile_WitchBolt;Shout_Shield_Wizard;Target_Sleep;Projectile_GuidingBolt" />
+                    <attribute id="UUID" type="guid" value="e09742e4-1f1a-4f2c-9028-005b848e677e" />
+                </node>
+        <node id="SpellList"> Level 2
+                    <attribute id="Comment" type="LSString" value="Mutant Spells" />
+                    <attribute id="Spells" type="LSString" value="Target_ArcaneLock;Target_CalmEmotions;Target_CrownOfMadness;Target_Darkness;Shout_DetectThoughts;Target_EnlargeReduce;Target_Enthrall;Zone_GustOfWind;Target_HeatMetal;Target_HoldPerson;Target_Knock;Projectile_AcidArrow;Shout_MirrorImage;Target_MistyStep;Target_Web;Target_SpikeGrowth;Target_Shatter;Shout_SeeInvisibility;Projectile_ScorchingRay;Projectile_RayOfEnfeeblement" />
+                    <attribute id="UUID" type="guid" value="fb26a017-d222-435e-94b5-67760893145f" />
+                </node>
+        <node id="SpellList"> Level 3
+                    <attribute id="Comment" type="LSString" value="Mutant Spells" />
+                    <attribute id="Spells" type="LSString" value="Target_CallLightning;Zone_Fear;Projectile_Fireball;Projectile_LightningArrow;Zone_LightningBolt;Target_HypnoticPattern;Target_Slow;Target_PlantGrowth;Target_SpeakWithDead;Target_StinkingCloud;Target_VampiricTouch" />
+                    <attribute id="UUID" type="guid" value="05497359-7ad6-4fc6-a9de-ab5457460aaf" />
+                </node>
+        <node id="SpellList"> Level 4
+                    <attribute id="Comment" type="LSString" value="Mutant Spells" />
+                    <attribute id="Spells" type="LSString" value="Target_Blight;Target_Confusion;Target_DominateBeast;Shout_FireShield;Target_GraspingVine;Target_IceStorm;Target_PhantasmalKiller;Wall_WallOfFire;Target_ResilientSphere" />
+                    <attribute id="UUID" type="guid" value="89300ed2-e923-48af-8ccc-cc3ec1db65eb" />
+                </node>
+        <node id="SpellList"> Level 5
+                    <attribute id="Comment" type="LSString" value="Mutant Spells" />
+                    <attribute id="Spells" type="LSString" value="Target_Cloudkill;Zone_ConeOfCold;Target_Contagion;Target_DominatePerson;Target_FlameStrike;Target_HoldMonster;Target_InsectPlague" />
+                    <attribute id="UUID" type="guid" value="24706e0b-b663-468c-bf86-7bc9a935202b" />
+                </node>
+        <node id="SpellList"> Level 6
+                    <attribute id="Comment" type="LSString" value="Mutant Spells" />
+                    <attribute id="Spells" type="LSString" value="Projectile_ChainLightning;Target_CircleOfDeath;Projectile_Disintegrate;Target_Eyebite;Target_FleshToStone;Target_GlobeOfInvulnerability;Zone_Sunbeam;Wall_WallOfIce;Wall_WallOfThorns;Target_Harm" />
+                    <attribute id="UUID" type="guid" value="b030747c-82f9-4514-acd2-89b510839649" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

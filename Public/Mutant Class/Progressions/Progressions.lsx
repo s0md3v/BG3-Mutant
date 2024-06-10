@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Constitution);Proficiency(SimpleWeapons);Proficiency(LightArmor)" />
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Gene" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector);SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,2);SelectSpells(55ed6ab7-cfab-4cc1-819e-87c446d1e814,4,0,,,,AlwaysPrepared)" />
+					<attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="2f911f2a-2da4-4735-8ff7-e477b3a9efd0" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Constitution);Proficiency(SimpleWeapons);Proficiency(LightArmor)" />
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Gene" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="IsMulticlass" type="bool" value="true" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector);" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="6638ce60-025e-4dc7-a6dd-02fea5172177" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1)" />
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="2" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(e09742e4-1f1a-4f2c-9028-005b848e677e,4,0,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="424de22a-637a-4a30-b22f-7e5760a86c8e" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1)" />
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="ee0687bb-273a-48e7-85cb-e6fe20b985ae" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,2)" />
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="4" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel2" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(fb26a017-d222-435e-94b5-67760893145f,3,0,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="b23fef1f-d48f-4ced-a386-e9672d7c9e88" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ActionResource(SpellSlot,2,2)" />
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Skeleton" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="7373dcb6-b9a1-43bd-8773-9658e38cb897" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,3,3)" />
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="6" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector);SelectSpells(05497359-7ad6-4fc6-a9de-ab5457460aaf,3,0,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="69439242-65e4-47c0-bc4d-c2dba1a10ffb" />
+                </node>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,3,4)" />
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="7" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel4" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(89300ed2-e923-48af-8ccc-cc3ec1db65eb,3,0,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="34a3e962-4707-4802-b0d5-66f9ce141c0c" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="8" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Cerebro" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="52281208-bb68-425e-90d8-92d4395f531e" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="9" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="c5f21510-ce6e-48ba-b3c9-2269e905ac1c" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="10" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel5" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,5)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(24706e0b-b663-468c-bf86-7bc9a935202b,2,0,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="5a088aa9-d89c-4ac7-99da-51bf8207f1f0" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="11" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel6" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,6)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(b030747c-82f9-4514-acd2-89b510839649,2,0,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="c6117f20-005e-4aaf-9fde-e6313997c47e" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="12" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(460cfdd6-296e-4efd-9eb3-54f35ead44d2,1,PhoenixSelector);SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="c4a3064f-8a86-4cab-ac71-7f2f62fb4a62" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="13" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Overclocked" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(-55%)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="124c5f20-fa2f-4806-9b6c-f8d2cad6ab3d" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="14" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Final" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="7d228ace-127e-480a-829f-a37dbd44105c" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="15" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="5a281aad-26cf-4cc5-923b-3d2164683df7" />
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="b5309009-ef07-4693-9df2-d69e5abc06d9" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="d1ea3aa9-ad28-4533-ab38-3accc3b62d11" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="ccea907c-92ef-4fa6-81f3-60873304e30c" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+        <node id="Progression"> Absolute Mutant
+                    <attribute id="Level" type="uint8" value="15" />
+                    <attribute id="Name" type="LSString" value="Absolute Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,3,MutationsSelector)" />
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Absolute" />
+                    <attribute id="PassivesRemoved" type="LSString" value="Mutant_Overclocked;Mutant_Final" />
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,12,20);Ability(Constitution,12,20);Ability(Dexterity,12,20);Ability(Intelligence,12,20);Ability(Charisma,12,20);ActionResource(SpellSlot,5,1);ActionResource(SpellSlot,4,2);ActionResource(SpellSlot,4,3);ActionResource(SpellSlot,3,4);ActionResource(SpellSlot,3,5);ActionResource(SpellSlot,3,6)" />
+                    <attribute id="TableUUID" type="guid" value="490c1adc-90bc-468d-b175-be5b27503882" />
+                    <attribute id="UUID" type="guid" value="b8babe05-af49-410b-abf4-0f0a04b13f62" />
+                </node>
+        <node id="Progression"> Ascended Mutant
+                    <attribute id="Level" type="uint8" value="15" />
+                    <attribute id="Name" type="LSString" value="Ascended Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Ascended" />
+                    <attribute id="PassivesRemoved" type="LSString" value="Mutant_Overclocked;Mutant_Final" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,5,1);ActionResource(SpellSlot,4,2);ActionResource(SpellSlot,4,3);ActionResource(SpellSlot,3,4);ActionResource(SpellSlot,3,5);ActionResource(SpellSlot,3,6)" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(13f289c9-dd20-4ea6-a7ab-188f7e12a10f,3,PhoenixSelectorAsc)" />
+                    <attribute id="TableUUID" type="guid" value="d0f7927c-7b20-4ef3-a771-7bfe88613c6c" />
+                    <attribute id="UUID" type="guid" value="b3969706-aeec-4305-bfe5-c15c993d0be0" />
+                </node>
+        <node id="Progression"> Berserk Mutant
+                    <attribute id="Level" type="uint8" value="15" />
+                    <attribute id="Name" type="LSString" value="Berserk Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="PassivesAdded" type="LSString" value="Mutant_Berserk" />
+                    <attribute id="PassivesRemoved" type="LSString" value="Mutant_Overclocked;Mutant_Final" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,5,1);ActionResource(SpellSlot,4,2);ActionResource(SpellSlot,4,3);ActionResource(SpellSlot,3,4);ActionResource(SpellSlot,3,5);ActionResource(SpellSlot,3,6);IncreaseMaxHP(55%)" />
+                    <attribute id="TableUUID" type="guid" value="c61de27d-9a4c-42a2-9218-89f27a591d80" />
+                    <attribute id="UUID" type="guid" value="b62cd59f-644f-4d7f-9f68-a877762ffca8" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="16" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="f817af58-9add-4a5f-897f-e8a4538027ba" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="17" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="56b55959-23cb-407b-bbd8-85662a8abc9e" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="18" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="a7086040-a802-4b14-86e2-f4a0765d40c6" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="19" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="483e39ae-b617-479c-8180-3a0ec055be06" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="20" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9c943874-e113-4251-85c3-f85949dff930,1,MutationsSelector)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="aed1a8d0-e00f-47eb-8d0b-2947cf484fc6" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="21" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(6)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="b7a21f19-4357-49c9-a17c-dcd62f33452e" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="22" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(6)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="8cac543e-b6ed-4cfb-9ecc-7f9e7466ee2e" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="23" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(6)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="467cd8d6-c8d0-4120-85c6-68e6da793452" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="24" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(6)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="18311426-9fc5-4074-ba00-0dc79a47f55f" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="25" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(6)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="c1a7aaa3-a037-4e5b-a3be-41d19cc966d7" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="26" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(6)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="d7ea5746-8321-4303-b87e-6ce1ae7184a7" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="27" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(6)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="7b7911e6-9582-4eac-b271-13cd101ab32c" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="28" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(6)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="b71ea174-84d0-4b97-9b24-08a7295da903" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="29" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(6)" />
+                    <attribute id="UUID" type="guid" value="d5bd8763-f260-4fbf-9c18-2aa8424bb67a" />
+                </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Level" type="uint8" value="30" />
+                    <attribute id="Name" type="LSString" value="Mutant" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(6)" />
+                    <attribute id="TableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="UUID" type="guid" value="8696c705-8b3d-4f97-8d02-a2e7c4708f98" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

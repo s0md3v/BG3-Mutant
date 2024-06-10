@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ClassDescriptions">
+    <node id="root">
+      <children>
+        <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="10" />
+                    <attribute id="CanLearnSpells" type="bool" value="false" />
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Mutant" />
+                    <attribute id="Description" type="TranslatedString" handle="he8715f5bga885g4fa3ga028gf0ed2847e8ef" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h014d7e12g670ag48dcgae47g6eac7855029a" version="1" />
+                    <attribute id="HpPerLevel" type="int32" value="6" />
+                    <attribute id="LearningStrategy" type="uint8" value="1" />
+                    <attribute id="MustPrepareSpells" type="bool" value="false" />
+                    <attribute id="Name" type="FixedString" value="Mutant" />
+                    <attribute id="PrimaryAbility" type="uint8" value="6" />
+                    <attribute id="ProgressionTableUUID" type="guid" value="8d690d30-76df-4b27-a16c-aef41ecfd49d" />
+                    <attribute id="SoundClassType" type="FixedString" value="Bard" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="6" />
+                    <attribute id="UUID" type="guid" value="516df80d-e962-48c7-ab31-e9b9342a3553" />
+					<children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d93434bd-6b71-4789-b128-ee24156057cc" />
+                        </node>
+                    </children>
+                </node>
+        <node id="ClassDescription"> Absloute Mutant
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Mutant" />
+                    <attribute id="Description" type="TranslatedString" handle="h41b2cc19ged22g4601g876bg6ccdea924d5a" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7a6dd547g689cg4e37g9d11gbeefed3c2565" version="1" />
+                    <attribute id="LearningStrategy" type="uint8" value="1" />
+                    <attribute id="MustPrepareSpells" type="bool" value="false" />
+                    <attribute id="Name" type="FixedString" value="Absolute Mutant" />
+                    <attribute id="PrimaryAbility" type="uint8" value="6" />
+                    <attribute id="ProgressionTableUUID" type="guid" value="490c1adc-90bc-468d-b175-be5b27503882" />
+                    <attribute id="SoundClassType" type="FixedString" value="Fighter" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="6" />
+                    <attribute id="UUID" type="guid" value="b5309009-ef07-4693-9df2-d69e5abc06d9" />
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d93434bd-6b71-4789-b128-ee24156057cc" />
+                        </node>
+                    </children>
+                </node>
+        <node id="ClassDescription"> Ascended Mutant
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Mutant" />
+                    <attribute id="Description" type="TranslatedString" handle="h7a3b8fc8g7f63g4c41gaf97gded08b664542" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h86a0f6a1ge371g4d2eg80a8g7a25fe55b57c" version="1" />
+                    <attribute id="LearningStrategy" type="uint8" value="1" />
+                    <attribute id="MustPrepareSpells" type="bool" value="false" />
+                    <attribute id="Name" type="FixedString" value="Ascended Mutant" />
+                    <attribute id="PrimaryAbility" type="uint8" value="6" />
+                    <attribute id="ProgressionTableUUID" type="guid" value="d0f7927c-7b20-4ef3-a771-7bfe88613c6c" />
+                    <attribute id="SoundClassType" type="FixedString" value="Fighter" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="6" />
+                    <attribute id="UUID" type="guid" value="d1ea3aa9-ad28-4533-ab38-3accc3b62d11" />
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d93434bd-6b71-4789-b128-ee24156057cc" />
+                        </node>
+                    </children>
+                </node>
+        <node id="ClassDescription"> Berserk Mutant
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Mutant" />
+                    <attribute id="Description" type="TranslatedString" handle="h1f478a3aga76dg4b8egb578g0d49fee24af7" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h87fa5c58g96a4g42ebgb6aegeac0eac76495" version="1" />
+                    <attribute id="LearningStrategy" type="uint8" value="1" />
+                    <attribute id="MustPrepareSpells" type="bool" value="false" />
+                    <attribute id="Name" type="FixedString" value="Berserk Mutant" />
+                    <attribute id="PrimaryAbility" type="uint8" value="6" />
+                    <attribute id="ProgressionTableUUID" type="guid" value="c61de27d-9a4c-42a2-9218-89f27a591d80" />
+                    <attribute id="SoundClassType" type="FixedString" value="Fighter" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="6" />
+                    <attribute id="UUID" type="guid" value="ccea907c-92ef-4fa6-81f3-60873304e30c" />
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d93434bd-6b71-4789-b128-ee24156057cc" />
+                        </node>
+                    </children>
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

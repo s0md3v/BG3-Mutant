@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList"> Choose Mutations
+                    <attribute id="Passives" type="LSString" value="Mutant_Adapt,Mutant_Archangel,Mutant_BeastMode,Mutant_Cable,Mutant_Wanda,Mutant_Cycloptic,Mutant_Domino,Mutant_Elixir,Mutant_Taskmaster,Mutant_Forge,Mutant_Jubilee,Mutant_HealingFactor,Mutant_Ice,Mutant_Rogue,Mutant_Juggernaut,Mutant_Gambit,Mutant_Kitty,Mutant_Victory,Mutant_MercWithAMouth,Mutant_Metallurgy,Mutant_Metamorph,Mutant_Mystique,Mutant_Nightcrawler,Mutant_SilverFeet,Mutant_SteelSkin,Mutant_Moonstar,Mutant_Sunspotted,Mutant_Storm,Mutant_Toad,Mutant_XFactor" />
+                    <attribute id="UUID" type="guid" value="9c943874-e113-4251-85c3-f85949dff930" />
+                </node>
+        <node id="PassiveList"> Choose Phoenix State
+                    <attribute id="Passives" type="LSString" value="Mutant_FallenPhoenix,Mutant_FlamingPhoenix,Mutant_DarkPhoenix" />
+                    <attribute id="UUID" type="guid" value="460cfdd6-296e-4efd-9eb3-54f35ead44d2" />
+                </node>
+        <node id="PassiveList"> Choose Phoenix State 2
+                    <attribute id="Passives" type="LSString" value="Mutant_FallenPhoenix,Mutant_FlamingPhoenix,Mutant_DarkPhoenix,Mutant_AscendedPhoenix" />
+                    <attribute id="UUID" type="guid" value="13f289c9-dd20-4ea6-a7ab-188f7e12a10f" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>
