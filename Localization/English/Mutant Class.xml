@@ -40,7 +40,7 @@
 	<content contentuid="h7d94fd70ga60fg4d04ga849g14236a82aad7">Mystiquel Arts</content>
 	<content contentuid="h3cacac92g1694g4255g982dg91f0f03341ab">You have perfected the art of &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Disguise&lt;/LSTag&gt; to gain &lt;LSTag Tooltip="Expertise"&gt;expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Deception"&gt;deception&lt;/LSTag&gt; and &lt;LSTag Tooltip="Persuasion"&gt;persuasion.&lt;/LSTag&gt;.</content>
 	<content contentuid="h01cf6c08gcf04g4186gbc38g351b056210c3">Merc With A Mouth</content>
-	<content contentuid="h3d3b29f3gb9a6g4d02ga137g0d091221a901">If you are &lt;LSTag Tooltip="Proficient"&gt;proficient&lt;/LSTag&gt; with a weapon, use &lt;LSTag Tooltip="Dexterity"&gt;dexterity&lt;/LSTag&gt; for weapon &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; if it is higher than &lt;LSTag Tooltip="Strength"&gt;strength&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Your attacks have a &lt;b&gt;10%&lt;/b&gt; chance to make an enemy &lt;LSTag Type="Status" Tooltip="Mutant_Laugh"&gt;laugh&lt;/LSTag&gt; for &lt;b&gt;1 turn&lt;/b&gt;.</content>
+	<content contentuid="h3d3b29f3gb9a6g4d02ga137g0d091221a901">If you are &lt;LSTag Tooltip="Proficient"&gt;proficient&lt;/LSTag&gt; with a weapon, use &lt;LSTag Tooltip="Dexterity"&gt;dexterity&lt;/LSTag&gt; for weapon &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; if it is higher than &lt;LSTag Tooltip="Strength"&gt;strength&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Your attacks have a &lt;b&gt;~26%&lt;/b&gt; chance to apply random negative effect(s).</content>
 	<content contentuid="h71ac5985gbed8g4d6fgbd97g2129c87a4e6f">Phoenix State: Fallen</content>
 	<content contentuid="ha390f472g6883g4ab8g802ag5c1a28f44d61">Gain the ability to &lt;LSTag Type="Passive" Tooltip="DevilsSight"&gt;see through darkness&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;When your &lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt; falls below &lt;b&gt;30%&lt;/b&gt;, create a cloud of &lt;LSTag Type="Spell" Tooltip="Target_Darkness"&gt;Darkness&lt;/LSTag&gt; around you.</content>
 	<content contentuid="he3d5967bg2afeg4fa1gbdb3gfbae131285e7">Phoenix State: Flaming</content>
@@ -87,7 +87,7 @@
 	<content contentuid="h613c9e8bge964g4339g90a5gd37a36009688">Chaos Magic</content>
 	<content contentuid="h67768abdge7cbg4a0ega982g390f35019182">Your mutation has forged a connection between you and Chaos Magic, the most powerful form of magic.&lt;br&gt;&lt;br&gt;You can sacrifice 5 &lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt; to reap the benefits of &lt;LSTag Type="Passive" Tooltip="Metamagic_Heightened"&gt;Heightened Spell&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="Metamagic_Extended"&gt;Extended Spell&lt;/LSTag&gt; and &lt;LSTag Type="Passive" Tooltip="Metamagic_Distant"&gt;Distant Spell&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This can be toggled via the hotbar.</content>
 	<content contentuid="ha85bee6dg8456g4074ga290g216a43701ba8">Golden Jubilee</content>
-	<content contentuid="h419de279g0510g4499gb0d6g3dcabc1e4962">Your mutation has given you the ability to create small energy explosions that get powerful with your level and &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;. They can be used as fireworks.</content>
+	<content contentuid="h419de279g0510g4499gb0d6g3dcabc1e4962">Your mutation has given you the ability to create small energy explosions that get powerful with your level and &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;. They can be used as fireworks.</content>
 	<content contentuid="hcfe7c1fcgb939g48a0g8b3bg7285e8d8b4c7">Moon Vision</content>
 	<content contentuid="h11383603gbe12g43a0g9b74g225bf448d4d0">With extreme enhancement to spatial awareness, you have become a master of ranged combat.&lt;br&gt;&lt;br&gt;Your ranged weapon and thrown attacks &lt;b&gt;never miss&lt;b&gt;. You can detect &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; creatures.</content>
 	<content contentuid="hca59e408g280eg4e00gbe94gc718d9969c6f">Kitty Phase</content>
@@ -97,7 +97,7 @@
 	<content contentuid="h1db16705g3d39g4739ga54bg96d53e38c461">Toxic Toad</content>
 	<content contentuid="h6dd96b40gbf05g45f8g8f2dg138c19f910e6">Due to your toad-like mutation, your Jump distance is increased by &lt;b&gt;6m&lt;/b&gt; and you ignore fall damage. Your &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jumps&lt;/LSTag&gt; in combat deal [1] in a [2] radius upon landing.</content>
 	<content contentuid="h16da85e5gbbe4g4a34gb11cg19e81663a143">Elixir of Life</content>
-	<content contentuid="h418ac58aga7d0g4366ga845g0d4aaaddd69d">Biokenesis powers have developed in your body. When you heal an ally, they gain &lt;LSTag Type="Status" Tooltip="BLADE_WARD"&gt;Blade Ward&lt;/LSTag&gt;. When you damage an enemy with a melee attack, you regain &lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt; equal to your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt; modifier.</content>
+	<content contentuid="h418ac58aga7d0g4366ga845g0d4aaaddd69d">Biokenesis powers have developed in your body. When you heal an ally, they gain &lt;LSTag Type="Status" Tooltip="BLADE_WARD"&gt;Blade Ward&lt;/LSTag&gt;. When you damage an enemy with a melee attack, you regain &lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt; equal to your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt; modifier.</content>
 	<content contentuid="hc8495851gb12ag4b32gb9eegebd34f15b28c">Aftermath</content>
 	<content contentuid="h836eb0c9g006eg4f8bg904fgc4c97aa0f36e">Your exhausting action has left you vulnerable to all damage for 1 turn.</content>
 	<content contentuid="h82693f25gd84eg4de4ga273gca419344cab9">Fool Me Once</content>
@@ -125,5 +125,15 @@
 	<content contentuid="he0007117g201dg4677gafb4gd5354e80b43e" version="3">This entity's attack technique has been learned. Its attacks are easier to dodge.</content>
 	<content contentuid="ha982dd4agc7eag464fgb009ge276126bad64" version="3">This entity's defense technique has been learned. Its easier to hit.</content>
 	<content contentuid="ha394bc4fg81f6g4800ga085g15c816de4845" version="3">Create a protective layer around you with your own blood and flesh. It reflects any projectiles targeted at you back to their point of origin. Your armour class is increased by 2.</content>
+	<content contentuid="h804c5871g7b91g473eg8a4ag276897fb3037" version="5">Throw a creature or object up to [1] with a thought. It takes a toll on both your stamina and vitality.</content>
+	<content contentuid="h03ea5246g3871g4825gb626gdbd7042438a8" version="3">Telekinesis</content>
+	<content contentuid="h1374f62dgba81g4bf2g923cgfc3bdfb18264" version="3">Throw creatures and objects away with a thought. It takes a toll on your stamina and vitality with every use.</content>
+	<content contentuid="hf6a90191ge0d6g40c9ga489g22003e0f9606" version="3">Blink Twice</content>
+	<content contentuid="hf717ba0dg5d0fg4623gb8cdg12ee2bf821f4" version="3">Open two portals to instantly switch places with an enemy or ally.</content>
+	<content contentuid="h4c6173a9g61c4g4e18g967eg078a44525f73" version="3">Ace Gambit</content>
+	<content contentuid="h75167d9bgd593g4b38gb137gb6aa7721f431" version="3">Charge every thrown item with energy to cause an explosion that deals damage and inflicts 1 turn of &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt;.</content>
+	<content contentuid="hf30ed3b7ge879g4b25gbc73g9d2f62dfe8d9" version="3">Banshee's War Cry</content>
+	<content contentuid="hfcfbda78g89e1g43d5gb028g55c7604c9fe1" version="3">Scream with such terrifying force that any creature caught in its path becomes &lt;LSTag Type="Status" Tooltip="MOO_MAG_KETHERIC_STUPEFIED"&gt;Numbed&lt;/LSTag&gt; for 1 turn and gets inflicted with 3 turns of &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt;.</content>
+	<content contentuid="hb0f6a1d1g1ffdg4e00gad09g1eecac3a24bc" version="2">Nimble Hands</content>
+	<content contentuid="h1e692fe0g5c34g4aa3g9dffg64a8b580b3be" version="2">Your nimble hands allow you to make an additional attack after making an unarmed or weapon attack. If you gain the Extra Attack feature from more than one class, they don't add together.</content>
 </contentList>
- 

@@ -5,7 +5,7 @@
     <node id="root">
       <children>
         <node id="PassiveList"> Choose Mutations
-                    <attribute id="Passives" type="LSString" value="Mutant_Adapt,Mutant_Archangel,Mutant_BeastMode,Mutant_Cable,Mutant_Wanda,Mutant_Cycloptic,Mutant_Domino,Mutant_Elixir,Mutant_Taskmaster,Mutant_Forge,Mutant_Jubilee,Mutant_HealingFactor,Mutant_Ice,Mutant_Rogue,Mutant_Juggernaut,Mutant_Gambit,Mutant_Kitty,Mutant_Victory,Mutant_MercWithAMouth,Mutant_Metallurgy,Mutant_Metamorph,Mutant_Mystique,Mutant_Nightcrawler,Mutant_SilverFeet,Mutant_SteelSkin,Mutant_Moonstar,Mutant_Sunspotted,Mutant_Storm,Mutant_Toad,Mutant_XFactor" />
+                    <attribute id="Passives" type="LSString" value="Mutant_Gambit,Mutant_Adapt,Mutant_Archangel,Mutant_Banshee,Mutant_BeastMode,Mutant_Blink,Mutant_Cable,Mutant_Wanda,Mutant_Cycloptic,Mutant_Domino,Mutant_Elixir,Mutant_Taskmaster,Mutant_Forge,Mutant_Jubilee,Mutant_HealingFactor,Mutant_Ice,Mutant_Rogue,Mutant_Juggernaut,Mutant_Kinetic,Mutant_Kitty,Mutant_Victory,Mutant_MercWithAMouth,Mutant_Metallurgy,Mutant_Metamorph,Mutant_Moonstar,Mutant_Mystique,Mutant_Nightcrawler,Mutant_Nimble,Mutant_SilverFeet,Mutant_SteelSkin,Mutant_Sunspotted,Mutant_Storm,Mutant_Telekinesis,Mutant_Toad,Mutant_XFactor" />
                     <attribute id="UUID" type="guid" value="9c943874-e113-4251-85c3-f85949dff930" />
                 </node>
         <node id="PassiveList"> Choose Phoenix State

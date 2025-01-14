@@ -1,0 +1,4 @@
+function SuccessChance(threshold)
+    local random_num = math.random(0,99)
+    return ConditionResult(random_num < threshold)
+end
